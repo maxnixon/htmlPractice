@@ -9,19 +9,19 @@ h1.story1H1 {
 }
 
 ul.story1Ul{
-	background-color: #e2af38
+	background-color: #e2af38;
 }
 
 head.story1Head {
-	background-color: #e5ba57
+	background-color: #e5ba57;
 }
 
 head.story2Head {
-	background-color: #e5ba57
+	background-color: #e5ba57;
 }
 
 h1.story2H2 {
-	color:black; 
+	color: black; 
 	background-color: #775403;
 }
 
@@ -64,25 +64,25 @@ p.story3P1 {
  	background-color:#cebd5c;
  	font-size: 18px; 
  	color: black;
- }
+}
 
 p.story3P3 {
  	background-color:#cebd5c;
  	font-size: 18px; 
  	color: black;
- }
+}
 
  p.story3P4 {
  	background-color:#cebd5c;
  	font-size: 14px; 
  	color: black;
- }
+}
 
  p.story3P5 {
  	background-color:#cebd5c;
  	font-size: 15.5px; 
  	color: black;
- }
+}
 
 p.story3P6 {
 	background-color:#cebd5c;
@@ -102,7 +102,8 @@ p.story3P8 {
 }
 h1.indexH1{
 	font-size: 50px; 
-	color:blue; text-align: center; 
+	color:blue; 
+	text-align: center; 
 	background-color: #8fedfc;
 }
 head.indexHead {
