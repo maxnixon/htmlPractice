@@ -1,6 +1,5 @@
 p.story1P {
-	background-color: #e2af38
-			}
+	background-color: #e2af38	}
 
 h1.story1H1 {
 	color:red
@@ -96,4 +95,6 @@ h1.indexH1{
 	color:blue; text-align: 
 	center; background-color: #8fedfc
 }
-
+head.indexHead {
+	background-color: #e5ba57
+}
