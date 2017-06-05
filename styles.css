@@ -109,6 +109,77 @@ h1.indexH1{
 head.indexHead {
 	background-color: #e5ba57;
 }
-div.letterBoard {
-	background: "https://thumbs.dreamstime.com/x/old-grunge-letter-paper-22703860.jpg"
+p.title{
+	font-size: 50px;
+	text-align: center;
+	color: black;
+	bbackground-color: #404b5e;
+}
+body.dark {
+	background-color: #c64547;
+}
+.letterBoard {
+	background: url(http://www.pd4pic.com/images/old-school-scroll-certificate-paper-newspaper.png);
+  background-repeat: no-repeat;
+	background-size: cover;
+	border: 2px solid black;
+}
+div.transbox {
+  margin: 30px;
+  ;
+	color:black;
+  border: 1px solid white;
+  opacity: 0.6;
+  filter: alpha(opacity=60); /* For IE8 and earlier */
+}
+
+.storyline {
+	background-color: #404b5e;
+	color: #080d16;
+	font-size: 20px;
+	color: black;
+}
+p.script{
+	font-family: Roundhand;
+}
+h1.alignLeft {
+	text-align: left;
+}
+h2.alignCenter {
+	text-align: center
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.blogPost {
+	padding: 0.55em 1em;
+	margin: 1em auto;
+	border: 1px solid #222222;
+	width: 75%;
+	border-radius: 5px;
+}
+
+.blogPost h1 {
+	font-size: 1.3em;
+	font-weight: 600;
+	color: #111111;
+	text-transform: uppercase;
+	text-decoration: underline;
+}
+
+.blogPost h2 {
+	font-size: 1em;
+	font-weight: 500;
+	color: #222222;
+}
+
+.blogPost p {
+	color: #222222;
+	font-size: 0.85em;
+}
+
+.blogPost p a {
+	color: green;
 }
