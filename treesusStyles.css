@@ -9,14 +9,13 @@ h1.Services {
   text-align: center;
    background-color: #aa7840;
    border-bottom: 1px dashed #999;
-    text-decoration: none; 
+    text-decoration: underline; 
 }
 p {
   font-size: 35px;
   color: #995303;
   background-color:#40f77a;
   text-align: center;
-  text-decoration-style: wavy;
 }
 
 .title {
@@ -31,6 +30,7 @@ h2.tableHeader {
   background-color: #aa7840;
   font-size: 50px;
   text-align: center;
+  text-decoration: underline; 
 
   
 }
